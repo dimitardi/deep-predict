@@ -1,9 +1,0 @@
-scipy
-tqdm
-scikit-learn
-scikit-image
-librosa
-pywt
-numpy
-matplotlib
-keras
